@@ -82,7 +82,7 @@ filter: blur(2px);
     filter: blur(12px);
 }
 
-.bubble span:nth-child(4){
+.bubble span:nth-child(5){
     inset: 10px;
     border-left: 10px solid #fff;
     filter: blur(8px);
